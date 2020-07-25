@@ -1,7 +1,8 @@
 # Way to bundle in webpack 4
 
-`webpack src/index.js --output dist/bundle.js --mode development`
-`Usage without config file: webpack <entry> [<entry>] --output [-o] <output>`
+- `webpack src/index.js --output dist/bundle.js --mode development`
+
+- `Usage without config file: webpack <entry> [<entry>] --output [-o] <output>`
 
 - And if you are using `webpack.config.js`
 
